@@ -1,0 +1,65 @@
+body, h1, h2 {
+ margin:0;
+ padding:0;
+}
+body {
+ background: #4fb3fc;
+ font-family: Calibri;
+}
+h1 {
+ padding:10px;
+ background-color:yellow;
+}
+h3 {
+ padding:10px;
+ background-color:#4fb3fc;
+ text-align: right
+}
+
+/*---------------------------*/
+/* Read Users */
+/*---------------------------*/
+footer {
+    padding: 1em;
+    color: white;
+    background-color: #4fb3fc;
+    clear: left;
+	text-align: center;
+	padding:100px;
+}
+	
+.userList {
+ margin:0;
+ padding:0;
+ width:200px;
+ float:left;
+ margin:10px;
+ border:1px solid #4fb3fc;
+}
+
+.userList h2 {
+ padding:30px;
+ margin:0;
+ color:#000000;
+}
+
+.userList li {
+ padding:20px 30px;
+ border-top:1px solid #4fc3fc;
+ cursor: pointer;
+ color:#000000;
+ font-style: Calibri;
+}
+
+.userList li:hover {
+ background: #4fb3fc;
+}
+.userDetail {
+ float:left;
+ width:400px;
+ margin:10px;
+ margin-left:0;
+ padding:30px;
+ border:1px solid #4fb3fc;
+ color:#000000;
+}
