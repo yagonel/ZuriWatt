@@ -28,7 +28,7 @@ footer {
 	padding:100px;
 }
 	
-.userList {
+#userList {
  margin:0;
  padding:0;
  width:200px;
@@ -37,13 +37,13 @@ footer {
  border:1px solid #4fb3fc;
 }
 
-.userList h2 {
+#userList h2 {
  padding:30px;
  margin:0;
  color:#000000;
 }
 
-.userList li {
+#userList li {
  padding:20px 30px;
  border-top:1px solid #4fc3fc;
  cursor: pointer;
@@ -51,10 +51,10 @@ footer {
  font-style: Calibri;
 }
 
-.userList li:hover {
+#userList li:hover {
  background: #4fb3fc;
 }
-.userDetail {
+#userDetail {
  float:left;
  width:400px;
  margin:10px;
